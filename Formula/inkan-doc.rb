@@ -3,8 +3,8 @@ class InkanDoc < Formula
 
   desc "Document management CLI with Pandoc, reMarkable sync, and AI-powered review workflow"
   homepage "https://github.com/inkan-tech/inkan-doc"
-  url "https://github.com/inkan-tech/inkan-doc/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "7515bf959b73b956ceb967351c7e299cbb3668a53d35f9c770eb72e00d93ced6"
+  url "https://github.com/inkan-tech/inkan-doc/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "0da547a51a4612c81082b7f5354f082b253cbb5b5a6530d9f1d6159ced5b9e6d"
   license "MIT"
   head "https://github.com/inkan-tech/inkan-doc.git", branch: "main"
 
