@@ -29,7 +29,7 @@ class InkanDoc < Formula
   end
 
   resource "pydantic-core" do
-    url "https://files.pythonhosted.org/packages/a5/72/b4d44b8e4f987d2b3b2a1c6e3faacd5461c8c5a8f0ea9b7e2f9e4f9d5c3b/pydantic_core-2.27.1.tar.gz"
+    url "https://files.pythonhosted.org/packages/a6/9f/7de1f19b6aea45aeb441838782d68352e71bfa98ee6fa048d5041991b33e/pydantic_core-2.27.1.tar.gz"
     sha256 "62a763352879b84aa31058fc931884055fd75089cccbd9d58bb6afd01141b235"
   end
 
@@ -55,7 +55,7 @@ class InkanDoc < Formula
 
   resource "rich" do
     url "https://files.pythonhosted.org/packages/ab/3a/0316b28d0761c6734d6bc14e770d85506c986c85ffb239e688eeaab2c2bc/rich-13.9.4.tar.gz"
-    sha256 "439594978a49a09530cff7ebc4b5c7103ef57c59446a5a3a5a2e5e2b9e3b8e3c"
+    sha256 "439594978a49a09530cff7ebc4b5c7103ef57baf48d5ea3184f21d9a2befa098"
   end
 
   # Dependencies of dependencies
@@ -86,7 +86,7 @@ class InkanDoc < Formula
 
   resource "certifi" do
     url "https://files.pythonhosted.org/packages/71/da/e94e26401b62acd6d91df2b52954aceb7f561743aa5ccc32152886c76c96/certifi-2024.2.2.tar.gz"
-    sha256 "0569859131db34f5c54d5821ec0c1a7d2e0c1011a9ffb519bf2e8f9f8b8b8f0e"
+    sha256 "0569859f95fc761b18b45ef421b1290a0f65f147e92a1e5eb3e635f9a5e4e66f"
   end
 
   resource "markupsafe" do
@@ -105,7 +105,7 @@ class InkanDoc < Formula
   end
 
   resource "pygments" do
-    url "https://files.pythonhosted.org/packages/55/59/8bccf4157baf25e4aa5a0bb7fa3ba8600907f4f9ef3c32f27d3d5e9c4d70/pygments-2.18.0.tar.gz"
+    url "https://files.pythonhosted.org/packages/8e/62/8336eff65bcbc8e4cb5d05b55faf041285951b6e80f33e2bff2024788f31/pygments-2.18.0.tar.gz"
     sha256 "786ff802f32e91311bff3889f6e9a86e81505fe99f2735bb6d60ae0c5004f199"
   end
 
