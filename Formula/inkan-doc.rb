@@ -24,8 +24,8 @@ class InkanDoc < Formula
   end
 
   resource "pydantic" do
-    url "https://files.pythonhosted.org/packages/a8/89/6a4a0c4b3d3d146f0cf8ff5036a73d14e7cc4e7f2e6f048a6b678c2dbfa4/pydantic-2.10.3.tar.gz"
-    sha256 "cb5ac360ce894ceacd69c403187900a02c4b20b693a9dd1d643e1571e4be351f"
+    url "https://files.pythonhosted.org/packages/45/0f/27908242621b14e649a84e62b133de45f84c255eecb350ab02979844a788/pydantic-2.10.3.tar.gz"
+    sha256 "cb5ac360ce894ceacd69c403187900a02c4b20b693a9dd1d643e1effab9eadf9"
   end
 
   resource "pydantic-core" do
@@ -34,7 +34,7 @@ class InkanDoc < Formula
   end
 
   resource "python-dotenv" do
-    url "https://files.pythonhosted.org/packages/bc/57/e84d88dfe0aec03b7a2d4327012c1627b76f796a4a1bfa1fcc7ca92fff92/python-dotenv-1.0.1.tar.gz"
+    url "https://files.pythonhosted.org/packages/bc/57/e84d88dfe0aec03b7a2d4327012c1627ab5f03652216c63d49846d7a6c58/python-dotenv-1.0.1.tar.gz"
     sha256 "e324ee90a023d808f1959c46bcbc04446a10ced277783dc6ee09987c37ec10ca"
   end
 
